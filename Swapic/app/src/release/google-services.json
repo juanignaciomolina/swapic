@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "749089921473",
+    "firebase_url": "https://swapic-stage-a5da8.firebaseio.com",
+    "project_id": "swapic-stage-a5da8",
+    "storage_bucket": "swapic-stage-a5da8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:749089921473:android:d48f6735033457bc",
+        "android_client_info": {
+          "package_name": "com.droidko.swapic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "749089921473-ip0lim74cgnj5ave2n8kgmc7hbkhi5mt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOFPYfTKnMXt_H4hHeqmOtNwtL_1wPrSU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
